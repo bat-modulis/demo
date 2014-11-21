@@ -3,12 +3,12 @@
       
 int main()
 {
-  int i, sum = 0;
+  int i, product = 0;
 
   for ( i = 1; i <= LAST; i++ ) {
     sum *= i;
   } /*-for-*/
-  printf("product = %d\n", sum);
+  printf(">>>>  product = %d\n", product);
 
   return 0;
 }
