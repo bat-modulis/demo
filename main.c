@@ -5,7 +5,7 @@ int main()
 {
   int i, product = 0;
 
-  for ( i = 1; i <= LAST; i++ ) {
+  for ( i = 2; i <= LAST; i++ ) {
     sum *= i;
   } /*-for-*/
   printf(">>>>  product = %d\n", product);
