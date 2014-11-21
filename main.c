@@ -1,6 +1,8 @@
 #include <stdio.h>
 #define LAST 10
-      
+
+
+// Main function      
 int main()
 {
   int i, product = 0;
